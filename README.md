@@ -8,4 +8,5 @@ The hmmdisc package is an implementation for discrete observation space and hmmc
 
 
 It includes implementations of the algorithm of my paper :
-Diogo Pereira, Cláudia Nunes, Rui Rodrigues, A new algorithm for inference in HMM's with lower span complexity, Computational Statistics & Data Analysis, 2024.
+
+Diogo Pereira, Cláudia Nunes, Rui Rodrigues, A new algorithm for inference in HMM's with lower span complexity, Computational Statistics & Data Analysis, 2024
