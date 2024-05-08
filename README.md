@@ -1,4 +1,4 @@
-# Hidden-Markov-Model-Numba-CUDA
+# Hidden Markov Model Inference, parallel algorithm with lower span complexity
 
 This is a library to work with hidden markov models with discrete or continuous observation space. 
 It includes simulation functions, likelihood functions, and 
